@@ -21,5 +21,5 @@ I'm an eager learner and always open to collaboration. Feel free to reach out if
 **Looking forward to connecting!**
 
 **Connect with me:** 
-
+*[linked in](https://www.linkedin.com/in/lewis-njue-03563b2b3/)
 * [Website](https://lewis.com/)
