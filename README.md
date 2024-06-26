@@ -20,6 +20,6 @@ I'm an eager learner and always open to collaboration. Feel free to reach out if
 
 **Looking forward to connecting!**
 
-**Connect with me:** (Optional: Add links to your social media profiles or a portfolio website)
+**Connect with me:** 
 
 * [Website](https://lewis.com/)
