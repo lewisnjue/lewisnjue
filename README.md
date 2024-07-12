@@ -9,6 +9,7 @@ Hi there! I'm Lewis, a passionate Data Science student at JKUAT University, Kare
 * **Django**
 * **Django rest framework**
 * **React**
+* **React Native**
 
 This combination of skills allows me to bridge the gap between data insights and user-friendly web applications. My love for building things led me to create several projects, with my current crown jewel being an e-commerce website. It was a challenging yet rewarding experience, and I'm constantly looking for ways to improve it and explore new web development frontiers.
 
