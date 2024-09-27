@@ -1,14 +1,12 @@
-# 🏄‍♂️ Lewis njue
-**`Digital Craftsman (Developer/Data scientists/Creator)`**
+
+# 🏄‍♂️ Lewis Njue
+**`Digital Craftsman (Developer/Data Scientist/Creator)`**
 
 Welcome to my GitHub account! I am Lewis, a data science student at **Jomo Kenyatta University of Agriculture and Technology (JKUAT)**. This account contains various data science projects that I am working on as part of my studies, personal interest, and exploration of the world of data.
 
-
 ### 🧰 Languages and Tools
 
-
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -19,6 +17,18 @@ Welcome to my GitHub account! I am Lewis, a data science student at **Jomo Kenya
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+
+<!-- Data Science Tools -->
+<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+<img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
+<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="Keras" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
+<img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+<img align="left" alt="SQLite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+
+<br />
 <br />
 
 #
@@ -35,6 +45,6 @@ I'm an eager learner and always open to collaboration. Feel free to reach out if
 
 **Looking forward to connecting!**
 
-**Connect with me:** 
-*[linked in](https://www.linkedin.com/in/lewis-njue-03563b2b3/)
+**Connect with me:**  
+* [LinkedIn](https://www.linkedin.com/in/lewis-njue-03563b2b3/)  
 * [Website](https://lewis.com/)
