@@ -3,63 +3,66 @@
 
 Welcome to my GitHub account! I am Lewis, a data science student at **Jomo Kenyatta University of Agriculture and Technology (JKUAT)**. This account contains various data science projects that I am working on as part of my studies, personal interest, and exploration of the world of data.
 
+---
+
 ### 🧰 Data Science Tools
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<p align="center">
+  <!-- Core Data Science Libraries -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="SciPy" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/XGBoost_logo.png" alt="XGBoost" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Lightgbm_logo.png" alt="LightGBM" width="40" height="40" />
+  
+  <!-- Data Processing & Big Data -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache Spark" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Hadoop_logo_new.svg" alt="Hadoop" width="40" height="40" />
+  <img src="https://dask.org/_static/images/dask_horizontal.svg" alt="Dask" width="40" height="40" />
+  <img src="https://docs.ray.io/en/latest/_images/ray_logo_with_text.svg" alt="Ray" width="40" height="40" />
 
-<!-- Core Data Science Libraries -->
-<img align="left" alt="Python" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Jupyter" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-<img align="left" alt="Pandas" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img align="left" alt="NumPy" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img align="left" alt="Matplotlib" width="30px" style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
-<img align="left" alt="Seaborn" width="30px" style="padding: 10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
-<img align="left" alt="SciPy" width="30px" style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" />
-<img align="left" alt="scikit-learn" width="30px" style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-<img align="left" alt="TensorFlow" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="Keras" width="30px" style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
-<img align="left" alt="PyTorch" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<img align="left" alt="XGBoost" width="30px" style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a6/XGBoost_logo.png" />
-<img align="left" alt="LightGBM" width="30px" style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Lightgbm_logo.png" />
+  <!-- Databases and Data Storage -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" alt="Cassandra" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40" />
 
-<!-- Data Processing & Big Data -->
-<img align="left" alt="Apache Spark" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
-<img align="left" alt="Hadoop" width="30px" style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Hadoop_logo_new.svg" />
-<img align="left" alt="Dask" width="30px" style="padding: 10px;" src="https://dask.org/_static/images/dask_horizontal.svg" />
-<img align="left" alt="Ray" width="30px" style="padding: 10px;" src="https://docs.ray.io/en/latest/_images/ray_logo_with_text.svg" />
+  <!-- Additional Data Science Tools -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40" />
+  <img src="https://mlflow.org/docs/latest/_static/images/mlflow-logo-black.png" alt="MLflow" width="40" height="40" />
+  <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" alt="Apache Airflow" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/kubeflow/kubeflow/assets/logos/kubeflow.svg" alt="Kubeflow" width="40" height="40" />
+</p>
 
-<!-- Databases and Data Storage -->
-<img align="left" alt="MongoDB" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Cassandra" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="PostgreSQL" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="SQLite" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-<img align="left" alt="AWS" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img align="left" alt="Google Cloud" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+---
 
-<!-- Additional Data Science Tools -->
-<img align="left" alt="Tableau" width="30px" style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />
-<img align="left" alt="Power BI" width="30px" style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
-<img align="left" alt="MLflow" width="30px" style="padding: 10px;" src="https://mlflow.org/docs/latest/_static/images/mlflow-logo-black.png" />
-<img align="left" alt="Apache Airflow" width="30px" style="padding: 10px;" src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" />
-<img align="left" alt="Docker" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Kubeflow" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/kubeflow/kubeflow/assets/logos/kubeflow.svg" />
+### What you'll find here:
 
-</div>
+- My ongoing projects (public ones, of course!)
+- Code snippets and experiments as I delve deeper into various technologies
+- Contributions to open-source projects (always looking for opportunities!)
 
-<br />
-<br />
+### Let's Connect!
+<p align="center">
+  <a href="https://www.linkedin.com/in/lewis-njue-03563b2b3/">
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="30" height="30" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://lewis.com/">
+    <img src="https://cdn-icons-png.flaticon.com/512/646/646094.png" width="30" height="30" alt="Website" />
+  </a>
+</p>
 
-#
-
-**What you'll find here:**
-
-* My ongoing projects (public ones, of course!)
-* Code snippets and experiments as I delve deeper into various technologies
-* Contributions to open-source projects (always looking for opportunities!)
-
-**Looking forward to connecting!**
-
-**Connect with me:**  
-* [LinkedIn](https://www.linkedin.com/in/lewis-njue-03563b2b3/)  
-* [Website](https://lewis.com/)
