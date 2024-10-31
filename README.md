@@ -13,12 +13,10 @@ Welcome to my GitHub account! I am Lewis, a data science student at **Jomo Kenya
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" style="border-radius: 10%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.2s;" title="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" style="border-radius: 10%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.2s;" title="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50" style="border-radius: 10%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.2s;" title="Matplotlib"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Seaborn_logo.svg" alt="Seaborn" width="50" height="50" style="border-radius: 10%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.2s;" title="Seaborn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="50" height="50" style="border-radius: 10%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.2s;" title="scikit-learn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50" style="border-radius: 10%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.2s;" title="TensorFlow"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="50" height="50" style="border-radius: 10%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.2s;" title="PyTorch"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Plotly_logo.png" alt="Plotly" width="50" height="50" style="border-radius: 10%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.2s;" title="Plotly"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Altair_logo.png" alt="Altair" width="50" height="50" style="border-radius: 10%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.2s;" title="Altair"/>
+
 </p>
 
 ---
