@@ -44,7 +44,7 @@ Welcome to my GitHub account! I am Lewis, a data science student at **Jomo Kenya
   <img src="https://mlflow.org/docs/latest/_static/images/mlflow-logo-black.png" alt="MLflow" width="40" height="40" />
   <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" alt="Apache Airflow" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fkubeflow%2Fkubeflow%2Fissues%2F187&psig=AOvVaw3Pm1ruejCipmUPaYbvSiW7&ust=1730488289655000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPi-zrGpuYkDFQAAAAAdAAAAABAE" alt="Kubeflow" width="40" height="40" />
+  <img src="https://user-images.githubusercontent.com/8655802/35833111-a3b9fa02-0a84-11e8-804b-9e62ed83f097.png" alt="Kubeflow" width="40" height="40" />
 </p>
 
 ---
