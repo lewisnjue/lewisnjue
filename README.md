@@ -20,14 +20,14 @@ Welcome to my GitHub account! I am Lewis, a data science student at **Jomo Kenya
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/XGBoost_logo.png" alt="XGBoost" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Lightgbm_logo.png" alt="LightGBM" width="40" height="40" />
-  
+  <img src="https://raw.githubusercontent.com/dmlc/xgboost/master/doc/logo/xgboost-logo-small.png" alt="XGBoost" width="40" height="40" />
+  <img src="https://lightgbm.readthedocs.io/en/latest/_static/images/LightGBM_logo_black_text.svg" alt="LightGBM" width="40" height="40" />
+
   <!-- Data Processing & Big Data -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache Spark" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Hadoop_logo_new.svg" alt="Hadoop" width="40" height="40" />
   <img src="https://dask.org/_static/images/dask_horizontal.svg" alt="Dask" width="40" height="40" />
-  <img src="https://docs.ray.io/en/latest/_images/ray_logo_with_text.svg" alt="Ray" width="40" height="40" />
+  <img src="https://docs.ray.io/en/latest/_static/ray-logo.svg" alt="Ray" width="40" height="40" />
 
   <!-- Databases and Data Storage -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
