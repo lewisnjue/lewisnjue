@@ -5,7 +5,7 @@ Welcome to my GitHub account! I am Lewis, a data science student at **Jomo Kenya
 
 ---
 
-### 🧰 Tools I use
+### 🧰 Data Science Tools
 
 <p align="center">
   <!-- Core Data Science Libraries -->
@@ -39,7 +39,7 @@ Welcome to my GitHub account! I am Lewis, a data science student at **Jomo Kenya
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40" />
 
   <!-- Additional Data Science Tools -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="40" height="25" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40" />
   <img src="https://mlflow.org/docs/latest/_static/images/mlflow-logo-black.png" alt="MLflow" width="40" height="40" />
   <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" alt="Apache Airflow" width="40" height="40" />
@@ -65,4 +65,3 @@ Welcome to my GitHub account! I am Lewis, a data science student at **Jomo Kenya
     <img src="https://cdn-icons-png.flaticon.com/512/646/646094.png" width="30" height="30" alt="Website" />
   </a>
 </p>
-
