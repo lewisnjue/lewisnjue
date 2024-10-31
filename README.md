@@ -3,9 +3,53 @@
 
 Welcome to my GitHub account! I am Lewis, a data science student at **Jomo Kenyatta University of Agriculture and Technology (JKUAT)**. This account contains various data science projects that I am working on as part of my studies, personal interest, and exploration of the world of data.
 
-### 🧰 Languages and Tools
+### 🧰 Data Science Tools
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;"> <!-- Core Data Science Libraries --> <img align="left" alt="Python" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img align="left" alt="Jupyter" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" /> <img align="left" alt="Pandas" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img align="left" alt="NumPy" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> <img align="left" alt="Matplotlib" width="30px" style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" /> <img align="left" alt="Seaborn" width="30px" style="padding: 10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" /> <img align="left" alt="SciPy" width="30px" style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" /> <img align="left" alt="scikit-learn" width="30px" style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> <img align="left" alt="TensorFlow" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /> <img align="left" alt="Keras" width="30px" style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" /> <img align="left" alt="PyTorch" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /> <img align="left" alt="XGBoost" width="30px" style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a6/XGBoost_logo.png" /> <img align="left" alt="LightGBM" width="30px" style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Lightgbm_logo.png" /> <!-- Data Processing & Big Data --> <img align="left" alt="Apache Spark" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" /> <img align="left" alt="Hadoop" width="30px" style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Hadoop_logo_new.svg" /> <img align="left" alt="Dask" width="30px" style="padding: 10px;" src="https://dask.org/_static/images/dask_horizontal.svg" /> <img align="left" alt="Ray" width="30px" style="padding: 10px;" src="https://docs.ray.io/en/latest/_images/ray_logo_with_text.svg" /> <!-- Databases and Data Storage --> <img align="left" alt="MongoDB" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> <img align="left" alt="Cassandra" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" /> <img align="left" alt="MySQL" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> <img align="left" alt="PostgreSQL" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> <img align="left" alt="SQLite" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /> <img align="left" alt="AWS" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> <img align="left" alt="Google Cloud" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /> <!-- Additional Data Science Tools --> <img align="left" alt="Tableau" width="30px" style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" /> <img align="left" alt="Power BI" width="30px" style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" /> <img align="left" alt="MLflow" width="30px" style="padding: 10px;" src="https://mlflow.org/docs/latest/_static/images/mlflow-logo-black.png" /> <img align="left" alt="Apache Airflow" width="30px" style="padding: 10px;" src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" /> <img align="left" alt="Docker" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> <img align="left" alt="Kubeflow" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/kubeflow/kubeflow/assets/logos/kubeflow.svg" /> </div> <br /> <br />
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+
+<!-- Core Data Science Libraries -->
+<img align="left" alt="Python" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Jupyter" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+<img align="left" alt="Pandas" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img align="left" alt="NumPy" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+<img align="left" alt="Matplotlib" width="30px" style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
+<img align="left" alt="Seaborn" width="30px" style="padding: 10px;" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
+<img align="left" alt="SciPy" width="30px" style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" />
+<img align="left" alt="scikit-learn" width="30px" style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+<img align="left" alt="TensorFlow" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="Keras" width="30px" style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
+<img align="left" alt="PyTorch" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+<img align="left" alt="XGBoost" width="30px" style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a6/XGBoost_logo.png" />
+<img align="left" alt="LightGBM" width="30px" style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Lightgbm_logo.png" />
+
+<!-- Data Processing & Big Data -->
+<img align="left" alt="Apache Spark" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
+<img align="left" alt="Hadoop" width="30px" style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Hadoop_logo_new.svg" />
+<img align="left" alt="Dask" width="30px" style="padding: 10px;" src="https://dask.org/_static/images/dask_horizontal.svg" />
+<img align="left" alt="Ray" width="30px" style="padding: 10px;" src="https://docs.ray.io/en/latest/_images/ray_logo_with_text.svg" />
+
+<!-- Databases and Data Storage -->
+<img align="left" alt="MongoDB" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Cassandra" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="SQLite" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+<img align="left" alt="AWS" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="Google Cloud" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+
+<!-- Additional Data Science Tools -->
+<img align="left" alt="Tableau" width="30px" style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />
+<img align="left" alt="Power BI" width="30px" style="padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
+<img align="left" alt="MLflow" width="30px" style="padding: 10px;" src="https://mlflow.org/docs/latest/_static/images/mlflow-logo-black.png" />
+<img align="left" alt="Apache Airflow" width="30px" style="padding: 10px;" src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" />
+<img align="left" alt="Docker" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="Kubeflow" width="30px" style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/kubeflow/kubeflow/assets/logos/kubeflow.svg" />
+
+</div>
+
+<br />
+<br />
+
 #
 
 **What you'll find here:**
