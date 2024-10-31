@@ -5,7 +5,7 @@ Welcome to my GitHub account! I am Lewis, a data science student at **Jomo Kenya
 
 ---
 
-### 🧰 Data Science Tools
+### 🧰 Tools I use
 
 <p align="center">
   <!-- Core Data Science Libraries -->
