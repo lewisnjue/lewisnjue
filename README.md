@@ -30,7 +30,7 @@ Welcome to my GitHub account! I am Lewis, a data science student at **Jomo Kenya
   </div>
 </div>
 
-<div style="border-bottom: 2px solid blue; margin-top: 10px; margin-bottom: 10px;"></div>
+<div style="border-bottom: 2px solid blue; margin-top: 10px; margin-bottom: 10px; border:20px"></div>
 
 ## 🚀 What you'll find here:
 
