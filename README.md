@@ -26,6 +26,12 @@ Welcome to my GitHub account! I am Lewis, a data science student at **Jomo Kenya
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" width="30" height="30" style="margin-right:5px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" width="30" height="30" style="margin-right:5px;"/>
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" title="Hugging Face Transformers" width="30" height="30" style="margin-right:5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="30" height="30" style="margin-right:5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="30" height="30" style="margin-right:5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="30" height="30" style="margin-right:5px;"/>
+
+
+
   </div>
 </div>
 
