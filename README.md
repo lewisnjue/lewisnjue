@@ -33,14 +33,6 @@ A lightweight neural network library implemented entirely from scratch using **N
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lewisnjue&show_icons=true&theme=tokyonight&count_private=true" alt="Lewis's GitHub Stats" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 * **LinkedIn**: [linkedin.com/in/lewisnjue](https://linkedin.com/in/lewisnjue)
