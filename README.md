@@ -2,27 +2,7 @@
 
 ### Data Science Student @ JKUAT | Aspiring AI & Deep Learning Engineer
 
-I am a third-year Data Science student at Jomo Kenyatta University of Agriculture and Technology (JKUAT), deeply passionate about Machine Learning, Computer Vision, and Deep Learning architectures. I thrive at the intersection of mathematical theory and high-performance engineering, exploring low-level model optimization and building neural frameworks from the ground up.
-
----
-
-## 🚀 Core Focus & Focus Areas
-* 🧠 **Deep Learning & Computer Vision**: Architecting CNNs, Transformers, and processing complex visual/textual datasets.
-* ⚡ **Low-Level Optimization**: GPU programming with CUDA and optimizing tensor operations.
-* 🐧 **Linux Ecosystem**: Maintaining robust, reproducible development environments across **Ubuntu**, **NixOS**, and **Pop!_OS**.
-
----
-
-## 🛠️ Tech Stack & Toolbelt
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, C++, SQL, Bash |
-| **Frameworks & Libraries** | PyTorch, NumPy, Pandas, Scikit-Learn |
-| **Tools & Environments** | Git, Docker, Linux (NixOS / Ubuntu / Pop!_OS) |
-| **Specialized Engineering** | CUDA, High-Performance Computing, Neural Dynamics |
-
----
+I am a Data Science student at Jomo Kenyatta University of Agriculture and Technology (JKUAT), deeply passionate about Machine Learning and making a world a better place with automation 😄 
 
 ## 📦 Featured Open Source Project
 
